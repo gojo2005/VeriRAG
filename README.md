@@ -504,7 +504,7 @@ These notebooks are not part of the production runtime — they represent the it
 
 ## 👤 Author
 
-**Prithviraj Mukhiya**
+**Prithvi Raj Mukhiya**
 Final-Year ECE Student, Indian Institute of Information Technology (IIIT) Kota, Rajasthan
 
 **Interests:** Data Science · Machine Learning · Deep Learning · Generative AI · Agentic AI · Retrieval-Augmented Generation (RAG) · Natural Language Processing · Computer Vision · Software Development
